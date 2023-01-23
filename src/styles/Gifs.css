@@ -1,0 +1,20 @@
+.gifs {
+  display: flex;
+  flex-direction: row;
+}
+
+.gifs img {
+  width: 200px;
+}
+
+.gifs h4 {
+  font-size: 20px;
+}
+
+.gifs small {
+  font-size: 20px;
+}
+
+.gif {
+  width: 200px;
+}

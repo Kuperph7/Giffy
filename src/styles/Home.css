@@ -1,0 +1,12 @@
+.logo {
+  width: 200px;
+  border-radius: 100px;
+  margin-top: 40px;
+}
+
+.searchBar {
+  margin: 40px;
+  border-radius: 20px;
+  text-align: center;
+  height: 30px;
+}
